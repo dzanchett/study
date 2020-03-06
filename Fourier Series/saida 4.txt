@@ -1,0 +1,8 @@
+Insira o indice da equação de 1 a 5:
+4
+Insira o número de passos no calculo
+100000
+
+
+
+Px = 12.496445143320623
